@@ -1,0 +1,12 @@
+# Approved model templates for CHAP
+# Each entry specifies a GitHub URL and its approved versions
+# The backend will only allow adding models from this list
+
+- url: https://github.com/dhis2-chap/chap_auto_ewars
+  versions:
+    stable: "@209759add6e13778f7061b8add8fbe814799a6cb"
+    nightly: "@main"
+
+- url: https://github.com/dhis2-chap/ewars_template
+  versions:
+    v3: "@e4520a2123a3228c10947f2b25029c3f7190e320"
