@@ -14,3 +14,7 @@
 - url: https://github.com/dhis2-chap/minimalist_example_r
   versions:
     stable: "@main"
+
+- url: https://github.com/dhis2-chap/minimalist_example_uv
+  versions:
+    stable: "@main"
