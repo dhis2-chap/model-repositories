@@ -10,3 +10,7 @@
 - url: https://github.com/dhis2-chap/ewars_template
   versions:
     v3: "@e4520a2123a3228c10947f2b25029c3f7190e320"
+
+- url: https://github.com/dhis2-chap/minimalist_example_r
+  versions:
+    stable: "@main"
