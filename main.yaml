@@ -18,3 +18,8 @@
 - url: https://github.com/dhis2-chap/minimalist_example_uv
   versions:
     stable: "@main"
+
+- url: https://github.com/hisprwanda/sarimax-xgboost-malaria-model-comoros
+  versions:
+    v1: "@3b0419a95bb3c2bcae5b4936ca4fe07de52dc71c"
+    nightly: "@main"
